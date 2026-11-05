@@ -155,6 +155,5 @@ class Problem2 {
 <p align="center">
   ⭐ Thanks for visiting my repository! ⭐
 </p>
-#   J a v a _ D e v e l o p e r _ 2 0 0 _ P r o b l e m s 
  
  
